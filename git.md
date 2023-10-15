@@ -5,3 +5,4 @@
 - git init
 - git status
 - git add .
+- git commit -m "Este es mi primer commit"
